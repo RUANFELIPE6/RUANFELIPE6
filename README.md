@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Ruan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-end+em+formação;Estudando+JavaScript,+React,+Node.js+e+mais!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-end+em+formação;Apaixonado+em+tecnologia!" />
 </p>
 
 ---

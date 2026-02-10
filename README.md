@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=30&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+o+Ruan+👋;Estudante+de+Ciência+de+Dados;Focado+em+Python+🐍;Aprendendo+todos+os+dias+🚀" />
+</h1>
 ## Olá! Eu sou o Ruan 👋
 
 📊 Estudante de **Ciência de Dados (SENAC)**  

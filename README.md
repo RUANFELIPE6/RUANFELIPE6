@@ -1,34 +1,35 @@
 ## Olá! Eu sou o Ruan 👋
 
-🐍 Estudante de Programação com foco em **Python**
+📊 Estudante de **Ciência de Dados (SENAC)**  
+🐍 Focado em **Python** e lógica de programação
 
 ---
 
 ### 📌 Sobre mim
-- 📚 Atualmente estudando **Python**
-- 🧠 Aprendendo lógica de programação e fundamentos
-- 💻 Interesse em desenvolvimento de software
-- 🎯 Objetivo: evoluir para programador júnior no futuro
+- 🎓 Cursando **Ciência de Dados no SENAC**
+- 📚 Atualmente estudando **Python do zero**
+- 🧠 Aprendendo lógica de programação e fundamentos de dados
+- 💻 Interesse em tecnologia, dados e programação
+- 🎯 Objetivo: evoluir para programador / analista júnior no futuro
 
 ---
 
-### 🛠️ Tecnologias que estou estudando
+### 🛠️ Tecnologias e conhecimentos em estudo
 - 🐍 **Python**
 - 📐 Lógica de Programação
-
-*(No momento, estou focado apenas nessas bases)*
+- 📊 Fundamentos de Ciência de Dados *(em aprendizado)*
 
 ---
 
 ### 📂 O que você vai encontrar aqui
 - Exercícios de Python
-- Projetos simples para praticar lógica
-- Códigos feitos durante meus estudos
+- Códigos feitos durante o curso do SENAC
+- Projetos simples voltados para lógica e dados
+- Prática contínua de programação
 
 ---
 
-### 🌱 Em aprendizado constante
-Estou no começo da jornada, mas estudando todos os dias e evoluindo passo a passo.
+### 🌱 Em desenvolvimento
+Estou no início da jornada, focado em aprender bem a base antes de avançar para conteúdos mais complexos.
 
 ✨ Obrigado por visitar meu perfil!
-

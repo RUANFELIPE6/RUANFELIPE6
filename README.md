@@ -5,7 +5,7 @@
 ---
 
 ### 📌 Sobre mim
-- 📚 Atualmente estudando **Python do zero**
+- 📚 Atualmente estudando **Python**
 - 🧠 Aprendendo lógica de programação e fundamentos
 - 💻 Interesse em desenvolvimento de software
 - 🎯 Objetivo: evoluir para programador júnior no futuro
